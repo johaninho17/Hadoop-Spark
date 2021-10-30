@@ -2,6 +2,8 @@
 Hadoop and Spark projects
 each projects contains its own readme to implement
 
+Pre-requirements: Hadoop (HSFS), Java Jdk 8/11+, Spark, and pySpark
+
 TPgraph-java-Hadoop
   -project in JAVA using Hadoop input and output formats available to create writable objects
   
